@@ -7,7 +7,7 @@ Integration tests can be found under the `tests` folder.
 ## Prerequisites
 * Python 3.7.5
 * pipenv installed
-  To install run `pip install pipenv`
+  * To install run `pip install pipenv`
 
 ## Getting started
 1. Clone the repository
